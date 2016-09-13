@@ -1,2 +1,5 @@
 # WebSharper.Community.SpinJS
-Spin.js for WebSharper
+Spin.js (http://spin.js.org/) for WebSharper extension
+
+# Documentation
+//TODO
